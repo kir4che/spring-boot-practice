@@ -1,0 +1,5 @@
+com\example\demo\DemoApplication.class
+com\example\demo\CanonPrinter.class
+com\example\demo\MyController.class
+com\example\demo\Printer.class
+com\example\demo\HpPrinter.class
